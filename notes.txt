@@ -1,0 +1,18 @@
+I – Italian
+B – bold
+U – underline
+Mark
+Del – delete
+Em – emphasized
+Sub – subscript
+Sup- superscript
+Small
+Big
+
+hyper text reference ---->href
+
+
+lists
+order
+unorder
+discription   dt-description term,dd-description defination
