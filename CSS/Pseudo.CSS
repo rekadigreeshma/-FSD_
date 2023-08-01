@@ -1,0 +1,17 @@
+a:link{
+	color: green;
+}
+a:hover{
+	color: red;
+}
+a:visited{
+	color: darkcyan;
+}
+a:active{
+	color: deeppink;
+}
+div:hover{
+	background-color: darkcyan;
+	width: 500px;
+	height: 200px;
+}

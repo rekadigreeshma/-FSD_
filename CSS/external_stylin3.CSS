@@ -1,0 +1,42 @@
+/*div{
+	height:100px;
+	width:700px;
+	background-color:lightgray;
+	outline: 8px dashed red;box-shadow: 0 0 0 8px skyblue;
+	border-corner-shape:scoop;
+	border-radius:30px;*/
+
+/*.image-container{
+	width:1000px;
+	height:300px;
+}
+.image-container img{
+	width:100%;
+	height:100%;
+}*/
+
+/*.one {
+  --mask: radial-gradient(40px at 40px 40px,#0000 98%,#000) -40px -40px;
+  -webkit-mask: var(--mask);
+          mask: var(--mask);
+    border:10px double brown ;      
+}
+.box {
+  text-align: center;
+  height: 100px;
+  width: 700px;
+  aspect-ratio:1;
+  display:inline-block;
+  background:linear-gradient(orange,firebrick);
+  border:10px double brown;
+  padding:40px;
+}*/
+
+
+#class{
+	height: 500px;
+	width: 300px;
+	border: black;
+	
+
+}

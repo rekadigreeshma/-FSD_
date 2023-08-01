@@ -1,0 +1,34 @@
+/*body{
+
+	background-image: url('');
+	background-repeat: no-repeat;
+	background-size:cover;
+}*/
+
+
+
+	/*border-style: dotted darkred;
+			/*border-width: 5px;
+			border-color: pink blue green cyan;
+			/*border-top-style: dotted;
+			border-right-style: ourset;
+			border-bottom-style: groove;
+			border-left-style: ridge;
+			border-radius: 50%;*/
+			/*boder:5px solid pink;*/
+}
+
+
+
+/*div{
+	border: dotted darkred;
+}*/
+
+
+div{
+	border: red;
+	outline-color: red,blue;
+	height: 70px;
+	width: 250;
+	background-color: lightgray;
+}

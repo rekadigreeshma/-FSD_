@@ -1,0 +1,18 @@
+#a71{
+	background-color: lightpink;
+	font-family: cursive;
+}
+h3,p{
+	color:red;
+	font-size:30px
+}
+p,span{
+	color: burlywood;
+	font-size:34px;
+}
+*{
+
+	font-family: cursive;
+	margin: 0px;
+	padding: 0px;
+}
